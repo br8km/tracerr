@@ -1,0 +1,2 @@
+# tracerr
+Golang Tracable Errors
